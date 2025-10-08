@@ -1,0 +1,15 @@
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\bin\Debug\net8.0\MyApp.Application.deps.json
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\bin\Debug\net8.0\MyApp.Application.dll
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\bin\Debug\net8.0\MyApp.Application.pdb
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\bin\Debug\net8.0\MyApp.Core.dll
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\bin\Debug\net8.0\MyApp.Core.pdb
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Application.csproj.AssemblyReference.cache
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Application.AssemblyInfoInputs.cache
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Application.AssemblyInfo.cs
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Application.csproj.CoreCompileInputs.cache
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Ap.B540CA8A.Up2Date
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Application.dll
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\refint\MyApp.Application.dll
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Application.pdb
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\ref\MyApp.Application.dll
