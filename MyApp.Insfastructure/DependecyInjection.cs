@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using MyApp.Insfrastructure.Data;
-using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 
 namespace MyApp.Application
 {
