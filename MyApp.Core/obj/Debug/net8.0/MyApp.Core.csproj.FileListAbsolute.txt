@@ -10,3 +10,4 @@ E:\ASP.NET\src\MyApp.Api\MyApp.Core\obj\Debug\net8.0\MyApp.Core.dll
 E:\ASP.NET\src\MyApp.Api\MyApp.Core\obj\Debug\net8.0\refint\MyApp.Core.dll
 E:\ASP.NET\src\MyApp.Api\MyApp.Core\obj\Debug\net8.0\MyApp.Core.pdb
 E:\ASP.NET\src\MyApp.Api\MyApp.Core\obj\Debug\net8.0\ref\MyApp.Core.dll
+E:\ASP.NET\src\MyApp.Api\MyApp.Core\obj\Debug\net8.0\MyApp.Core.sourcelink.json

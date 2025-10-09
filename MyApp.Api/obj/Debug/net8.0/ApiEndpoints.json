@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MyApp.Api.Controllers.EmployeeController",
+    "Method": "AddEmpoyeeAsync",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "MyApp.Core.Entities.EmployeeEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using MyApp.Core.Interfaces;
 using MyApp.Insfrastructure.Data;
+using MyApp.Insfrastructure.Repositories;
 
 namespace MyApp.Application
 {
@@ -15,6 +17,7 @@ namespace MyApp.Application
                     ServerVersion.Create(8, 0, 30, Pomelo.EntityFrameworkCore.MySql.Infrastructure.ServerType.MySql)
                 );
             });
+            services.AddScoped<IEmployeeReository, EmployeeRepository>();
             return services;
         }
     }

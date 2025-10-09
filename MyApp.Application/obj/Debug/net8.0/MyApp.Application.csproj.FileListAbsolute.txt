@@ -13,3 +13,4 @@ E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Application.dl
 E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\refint\MyApp.Application.dll
 E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Application.pdb
 E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\ref\MyApp.Application.dll
+E:\ASP.NET\src\MyApp.Api\MyApp.Application\obj\Debug\net8.0\MyApp.Application.sourcelink.json

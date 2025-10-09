@@ -17,3 +17,4 @@ E:\ASP.NET\src\MyApp.Api\MyApp.Insfastructure\obj\Debug\net8.0\refint\MyApp.Insf
 E:\ASP.NET\src\MyApp.Api\MyApp.Insfastructure\obj\Debug\net8.0\MyApp.Insfrastructure.pdb
 E:\ASP.NET\src\MyApp.Api\MyApp.Insfastructure\obj\Debug\net8.0\MyApp.Insfrastructure.genruntimeconfig.cache
 E:\ASP.NET\src\MyApp.Api\MyApp.Insfastructure\obj\Debug\net8.0\ref\MyApp.Insfrastructure.dll
+E:\ASP.NET\src\MyApp.Api\MyApp.Insfastructure\obj\Debug\net8.0\MyApp.Insfrastructure.sourcelink.json
