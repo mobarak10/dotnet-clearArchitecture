@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MediatR;
+using MyApp.Core.Entities;
+using MyApp.Core.Interfaces;
 
 namespace MyApp.Application.Queries
 {
-    internal class GetAllEmployeeQuery
+    public record GetAllEmployeeQuery(): IRequest<IEnumerable<EmployeeEntity>>;
+
+    public class GetAllEmployeeQueryHandler(IEmployeeReository employeeRepository)
+        : IRequestHandler<GetAllEmployeeQuery, IEnumerable<EmployeeEntity>>
     {
+        public async Task<IEnumerable<EmployeeEntity>> Handle(GetAllEmployeeQuery request, CancellationToken cancellationToken)
+        {
+            return await employeeRepository.GetEmployees();
+        }
     }
 }

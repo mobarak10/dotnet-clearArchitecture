@@ -12,9 +12,9 @@ namespace MyApp.Insfrastructure.Repositories
             return await dbContext.Employees.ToListAsync();
         }
 
-        public async Task<EmployeeEntity> GetEmployeeByIdAsync(Guid id)
+        public async Task<EmployeeEntity> GetEmployeeByIdAsync(Guid employeeId)
         {
-            return await dbContext.Employees.FirstOrDefaultAsync(x => x.Id == id);
+            return await dbContext.Employees.FirstOrDefaultAsync(x => x.Id == employeeId);
         }
 
         public async Task<EmployeeEntity> AddEmployeeAsync(EmployeeEntity entiry)

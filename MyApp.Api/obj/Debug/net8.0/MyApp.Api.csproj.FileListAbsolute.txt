@@ -186,4 +186,3 @@ E:\ASP.NET\src\MyApp.Api\MyApp.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\Syst
 E:\ASP.NET\src\MyApp.Api\MyApp.Api\obj\Debug\net8.0\MyApp.Api.sourcelink.json
 E:\ASP.NET\src\MyApp.Api\MyApp.Api\bin\Debug\net8.0\MediatR.dll
 E:\ASP.NET\src\MyApp.Api\MyApp.Api\bin\Debug\net8.0\MediatR.Contracts.dll
-E:\ASP.NET\src\MyApp.Api\MyApp.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
